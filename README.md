@@ -3,13 +3,13 @@
 Welcome to the Cash Register Android Application repository. 🎊💼
 
 ## Table of Contents 
-1. [Objective](#objective) 🎯
-2. [Assignment Description](#project-description) 📝
-    - [Buy Product](#1-buy-product) 🛍️
-    - [Manage Activity](#2-manage-activity) 📊
-    - [Purchase History](#3-purchase-history) 📜
-    - [Product Restock](#4-product-restock) 🔄
-3. [Project Template Code](#5-project-template-code) 📦
+1. Objective 🎯
+2. Assignment Description 📝
+    - Buy Product 🛍️
+    - Manage Activity 📊
+    - Purchase History 📜
+    - Product Restock 🔄
+3. Project Template Code📦
 
 ## Objective 🎯
 
